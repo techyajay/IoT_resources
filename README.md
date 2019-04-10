@@ -9,6 +9,7 @@ This is a list of resources for those interested in hardware/IoT security.
 - [Conferences](#conferences-some-of-which-also-include-training)
 - [How To's](#how-tos)
 - [CTF's](#ctfs)
+- [YouTube Channels](#videos)
 
 # Blogs
 
@@ -123,3 +124,8 @@ Writeups, pictures - http://ph0wn.org/pictures-2017/
 
 ## Hackgnar
 * **BLE CTF** - https://github.com/hackgnar/ble_ctf
+
+## YouTube Channels
+* **Independent Security Evaluators (ISE)** - https://www.youtube.com/channel/UCRwxJsNzk5DtJpNWH9yICTg
+* **Crazy Danish Hackerr** - https://www.youtube.com/channel/UClg0eyJTbAZaYuz3mhwfBBQ
+* **LiveOverflow** - https://www.youtube.com/watch?v=u_U6F2Kkbb0&list=PLhixgUqwRTjwNaT40TqIIagv3b4_bfB7M
