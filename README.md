@@ -17,6 +17,7 @@ This is a list of resources for those interested in hardware/IoT security.
 * [Firmware Security](https://firmwaresecurity.com/) - News/info mostly on firmware security
 * [Attify](https://blog.attify.com/) - IoT Security Blog
 * [Independent Security Evaluators](https://www.securityevaluators.com/blog/) - IoT Security Research Blog
+* [Payatu Technologies Blog](https://payatu.com/blog/) - IoT Security Blog
 
 # Books
 
