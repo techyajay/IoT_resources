@@ -128,4 +128,4 @@ Writeups, pictures - http://ph0wn.org/pictures-2017/
 ## YouTube Channels
 * **Independent Security Evaluators (ISE)** - https://www.youtube.com/channel/UCRwxJsNzk5DtJpNWH9yICTg
 * **Crazy Danish Hackerr** - https://www.youtube.com/channel/UClg0eyJTbAZaYuz3mhwfBBQ
-* **LiveOverflow** - https://www.youtube.com/watch?v=u_U6F2Kkbb0&list=PLhixgUqwRTjwNaT40TqIIagv3b4_bfB7M
+* **LiveOverflow** - https://www.youtube.com/watch?v=u_U6F2Kkbb0&list=PLhixgUqwRTjwNaT40TqIIagv3b4_bfB7M 
